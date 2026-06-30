@@ -51,7 +51,7 @@ Well list:
 
 ## Protocol Generation
 
-Use [scripts/example/p_shape.py](../../scripts/example/p_shape.py) to generate OT-2 Python protocol code.
+Use [scripts/p_shape.py](../scripts/p_shape.py) to generate OT-2 Python protocol code.
 
 The generated protocol:
 

@@ -25,8 +25,8 @@ Use this workflow when:
 - The workflow should demonstrate direct Opentrons liquid handling rather than optimization
 
 Before running:
-- Refer to: [example P shape](references/example/p-shape.md)
-- Protocol generator: [scripts/example/p_shape.py](scripts/example/p_shape.py)
+- Refer to: [example P shape](references/p-shape.md)
+- Protocol generator: [scripts/p_shape.py](scripts/p_shape.py)
 - Machine reference: [opentrons machine](../machine/references/opentrons-machine.md)
 - Ask the user to confirm all deck slots before generating or running the protocol
 
